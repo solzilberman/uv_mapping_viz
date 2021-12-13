@@ -1,12 +1,14 @@
-# p5.js Starter
+# Visualization of [UV Mapping](https://en.wikipedia.org/wiki/UV_mapping) in p5.js
 
-Minimal project to get started with [p5.js](https://p5js.org/).
-Includes live reloading with [BrowserSync](https://www.browsersync.io/).
+![screenshot](https://i.imgur.com/LMrMVah.png)
 
-After installing the dependencies via `npm install` or `yarn`, simply run
+
+After installing the dependencies via `npm install` or `yarn`, run
 
 ```sh
 npm start
 ```
 
-to start the development server. Put all of your p5.js related code (i.e. your sketch) in `sketch.js`. Happy sketching! ⚡️
+to start the development server.
+
+
